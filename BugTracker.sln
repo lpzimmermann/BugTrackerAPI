@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BugTrackingService", "BugTrackingService\BugTrackingService.csproj", "{54AA11C8-AC47-4229-B956-EADD43D69822}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstractions", "Abstractions\Abstractions.csproj", "{D0F0B9F6-11B6-4CEA-8FAE-641638B0F012}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{7CAC27AA-2842-40E2-8B87-0AA42C445170}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54AA11C8-AC47-4229-B956-EADD43D69822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54AA11C8-AC47-4229-B956-EADD43D69822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54AA11C8-AC47-4229-B956-EADD43D69822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54AA11C8-AC47-4229-B956-EADD43D69822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0F0B9F6-11B6-4CEA-8FAE-641638B0F012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F0B9F6-11B6-4CEA-8FAE-641638B0F012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F0B9F6-11B6-4CEA-8FAE-641638B0F012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F0B9F6-11B6-4CEA-8FAE-641638B0F012}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CAC27AA-2842-40E2-8B87-0AA42C445170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CAC27AA-2842-40E2-8B87-0AA42C445170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CAC27AA-2842-40E2-8B87-0AA42C445170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CAC27AA-2842-40E2-8B87-0AA42C445170}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

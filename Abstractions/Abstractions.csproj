@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="MongoDB.Bson, Version=2.7.2.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\..\..\..\..\..\.nuget\packages\mongodb.bson\2.7.2\lib\netstandard1.5\MongoDB.Bson.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.Extensions.PlatformAbstractions" Version="1.1.0" />
+    </ItemGroup>
+
+</Project>
